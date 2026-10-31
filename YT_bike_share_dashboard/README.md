@@ -17,6 +17,9 @@ An interactive Power BI dashboard analysing bike-rental demand, revenue and prof
 2021 only: ~1.24M riders, ~$5M revenue, ~$3.42M profit, 68.92% margin.
 
 ![Dashboard – 2021](images/Bike_dashboard_2021.png)
+
+2022 only: ~2M riders, ~$10M revenue, ~$7.03M profit, 68.74% margin.
+
 ![Dashboard – 2022](images/Bike_dashboard_2022.png)
 
 ## What the dashboard shows
